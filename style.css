@@ -29,3 +29,35 @@ body {
     color: #F9FAF8;
     text-size: 24px;
 }
+
+.hero {
+    background-color:#1f2937;
+    display: flex;
+    padding: 32px;
+    gap: 32px;
+}
+
+.hero img {
+    width: 450px;
+    height: auto;
+}
+
+.hero h1 {
+    font-size: 48px;
+    color:#F9FAF8;
+    font-weight: 900;
+}
+
+.hero p {
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.hero button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 4px 8px;
+}
