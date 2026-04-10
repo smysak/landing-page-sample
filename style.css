@@ -80,11 +80,14 @@ body {
 .box {
     max-width: 200px;
     text-align: center;
+    color: #1F2937;
 }
 
 .box img {
     width: 150px;
     height: auto;
+    border: 3px solid #3882F6;
+    border-radius: 8px;
 }
 
 .inspirational {
@@ -104,6 +107,7 @@ body {
     font-size: 24px;
     font-weight: 700;
     text-align: right;
+    color: #1F2937;
 }
 
 .actionator {
